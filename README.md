@@ -1,1 +1,2 @@
 # basic-port-scanner
+A basic port scanner written to scan ports 1 to 1000 from an input host using the host's IP address for security purposes. This was designed for my final project in Security Automation and isn't anything impressive. I spent more time trying to figure out how to get it to work than I'd like to admit, but the end result works. I tried to find a way to automate it to possibly run at intervals on its own after being activated once, but didn't have any luck finding any tutorials or scripts that might help me know where to even start in that direction.
